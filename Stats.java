@@ -23,10 +23,10 @@ public class Stats {
 
         double average = (double) sum / count;
 
-        System.out.println("The count is : " + count);
-        System.out.println("The sum is: " + sum);
-        System.out.println("The minimum value is: " + min);
-        System.out.println("The max value is: " + max);
-        System.out.printf("The average: is %.2f\n", average);
+        System.out.println("Count: " + count);
+        System.out.println("Sum: " + sum);
+        System.out.println("Min: " + min);
+        System.out.println("Max: " + max);
+        System.out.printf("Average:, %.2f\n", average);
     }
 }
