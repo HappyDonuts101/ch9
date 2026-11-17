@@ -18,7 +18,7 @@ public class Longest {
             }
         }
 
-        System.out.println("The longest is: " + longest + " (" + longest.length() + " letters)");
-        System.out.println("The First alphabetically is: " + first);
+        System.out.println("Longest: " + longest + " (" + longest.length() + " letters)");
+        System.out.println("First alphabetically: " + first);
     }
 }
